@@ -1,0 +1,12 @@
+.caption {
+    height: auto;
+}
+
+.caption h4 {
+    width: auto;
+}
+
+.thumbnail img {
+    height: auto;
+    width: 100px;
+}

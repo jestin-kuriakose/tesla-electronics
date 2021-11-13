@@ -1,0 +1,234 @@
+[11-Nov-2021 13:37:30 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:37:30 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:39:36 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:39:36 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:39:36 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:39:36 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:39:37 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:39:37 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:39:39 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:39:39 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:41:11 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:41:11 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:42:45 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:42:45 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:42:54 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:42:54 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:42:57 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:42:57 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:44:32 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:44:32 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:44:33 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:44:33 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:44:34 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:44:34 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:44:35 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:44:35 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:44:49 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:44:49 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:45:13 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:45:13 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/index.php on line 1
+[11-Nov-2021 13:47:45 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'jestink'@'localhost' (using password: YES) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 13:47:45 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 13:47:45 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 13:47:46 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'jestink'@'localhost' (using password: YES) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 13:47:46 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 13:47:46 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 13:48:00 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'jestink'@'localhost' (using password: YES) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 13:48:00 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 13:48:00 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 13:48:00 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'jestink'@'localhost' (using password: YES) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 13:48:00 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 13:48:00 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 13:49:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'jestink'@'localhost' (using password: YES) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 13:49:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 13:49:32 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 13:49:57 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/shop.php on line 1
+[11-Nov-2021 13:49:57 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/shop.php on line 1
+[11-Nov-2021 13:51:09 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/login.php on line 1
+[11-Nov-2021 13:51:09 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/login.php on line 1
+[11-Nov-2021 13:51:11 America/Boise] PHP Warning:  require_once(../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/contact.php on line 4
+[11-Nov-2021 13:51:11 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/contact.php on line 4
+[11-Nov-2021 18:11:26 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 18:11:27 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 18:11:27 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 18:11:27 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 18:11:31 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 18:11:31 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 18:11:31 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 18:11:31 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 18:11:31 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 18:11:31 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 18:11:34 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 18:11:34 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 18:11:34 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 18:11:35 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 18:11:35 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 18:11:35 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 18:11:40 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 18:11:40 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 18:11:40 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 18:11:40 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 18:11:40 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 18:11:40 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 18:11:42 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 18:11:42 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 18:11:42 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 18:11:42 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 18:11:42 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 18:11:42 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 18:11:42 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[11-Nov-2021 18:11:42 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[11-Nov-2021 18:11:42 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[11-Nov-2021 18:40:16 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 11
+[11-Nov-2021 18:40:16 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 12
+[11-Nov-2021 19:21:37 America/Boise] PHP Notice:  Undefined index: product_3 in /home2/peheabmy/resources/cart.php on line 11
+[11-Nov-2021 19:21:37 America/Boise] PHP Notice:  Undefined index: product_3 in /home2/peheabmy/resources/cart.php on line 12
+[11-Nov-2021 19:21:38 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 11
+[11-Nov-2021 19:21:38 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 12
+[11-Nov-2021 19:22:43 America/Boise] PHP Notice:  Undefined index: product_1 in /home2/peheabmy/resources/cart.php on line 11
+[11-Nov-2021 19:22:43 America/Boise] PHP Notice:  Undefined index: product_1 in /home2/peheabmy/resources/cart.php on line 12
+[11-Nov-2021 19:22:44 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 11
+[11-Nov-2021 19:22:44 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 12
+[11-Nov-2021 19:22:45 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 11
+[11-Nov-2021 19:22:45 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 12
+[11-Nov-2021 20:02:49 America/Boise] PHP Notice:  Undefined index: product_28 in /home2/peheabmy/resources/cart.php on line 11
+[11-Nov-2021 20:02:49 America/Boise] PHP Notice:  Undefined index: product_28 in /home2/peheabmy/resources/cart.php on line 12
+[11-Nov-2021 20:37:39 America/Boise] PHP Notice:  Undefined variable: amount in /home2/peheabmy/resources/cart.php on line 150
+[11-Nov-2021 20:37:39 America/Boise] PHP Notice:  Undefined variable: currency in /home2/peheabmy/resources/cart.php on line 150
+[11-Nov-2021 20:37:39 America/Boise] PHP Notice:  Undefined variable: transaction in /home2/peheabmy/resources/cart.php on line 150
+[11-Nov-2021 20:37:39 America/Boise] PHP Notice:  Undefined variable: status in /home2/peheabmy/resources/cart.php on line 150
+[11-Nov-2021 20:39:35 America/Boise] PHP Notice:  Undefined variable: amount in /home2/peheabmy/resources/cart.php on line 150
+[11-Nov-2021 20:39:35 America/Boise] PHP Notice:  Undefined variable: currency in /home2/peheabmy/resources/cart.php on line 150
+[11-Nov-2021 20:39:35 America/Boise] PHP Notice:  Undefined variable: transaction in /home2/peheabmy/resources/cart.php on line 150
+[11-Nov-2021 20:39:35 America/Boise] PHP Notice:  Undefined variable: status in /home2/peheabmy/resources/cart.php on line 150
+[11-Nov-2021 20:44:00 America/Boise] PHP Notice:  Undefined variable: amount in /home2/peheabmy/resources/cart.php on line 150
+[11-Nov-2021 20:44:00 America/Boise] PHP Notice:  Undefined variable: currency in /home2/peheabmy/resources/cart.php on line 150
+[11-Nov-2021 20:44:00 America/Boise] PHP Notice:  Undefined variable: transaction in /home2/peheabmy/resources/cart.php on line 150
+[11-Nov-2021 20:44:00 America/Boise] PHP Notice:  Undefined variable: status in /home2/peheabmy/resources/cart.php on line 150
+[11-Nov-2021 21:07:51 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 11
+[11-Nov-2021 21:07:51 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:01:44 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:01:44 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:01:50 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:01:50 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:02:11 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:02:11 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:02:15 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:02:15 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:02:17 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:02:17 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:03:00 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:03:00 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:03:04 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:03:04 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:03:07 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:03:07 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:03:08 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:03:08 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:04:00 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:04:00 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:04:03 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:04:04 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:04:07 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:04:07 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:06:21 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:06:21 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:07:20 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:07:20 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:07:22 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:07:22 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:07:23 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:07:23 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:07:24 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:07:24 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 02:08:29 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 02:08:29 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:18:36 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:18:36 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:18:41 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:18:41 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:18:56 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/peheabmy/resources/config.php on line 4
+[12-Nov-2021 12:19:56 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:19:56 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:19:58 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:19:58 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:20:33 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:20:33 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:21:36 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:21:36 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:23:57 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:23:57 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:24:13 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:24:13 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:24:34 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:24:34 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:24:39 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:24:39 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:24:41 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:24:41 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:26:31 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:26:31 America/Boise] PHP Notice:  Undefined index: product_29 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:27:06 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:27:06 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:27:31 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:27:31 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 12:28:25 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 12:28:25 America/Boise] PHP Notice:  Undefined index: product_4 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 13:10:47 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 13:10:47 America/Boise] PHP Notice:  Undefined index: product_5 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 13:18:07 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 13:18:07 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 13:18:26 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 11
+[12-Nov-2021 13:18:26 America/Boise] PHP Notice:  Undefined index: product_27 in /home2/peheabmy/resources/cart.php on line 12
+[12-Nov-2021 16:00:28 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:00:28 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:00:28 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:00:30 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:00:30 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:00:30 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:00:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:00:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:00:32 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:00:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:00:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:00:32 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:00:33 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:00:33 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:00:33 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:00:33 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:00:33 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:00:33 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:00:35 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:00:35 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:00:35 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:02:49 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:02:49 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:02:49 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:02:49 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:02:49 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:02:49 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:04:00 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:04:00 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:04:00 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:04:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:04:03 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:04:03 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:04:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:04:03 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:04:03 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:04:04 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:04:04 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:04:04 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:04:13 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:04:13 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:04:13 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:04:13 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:04:13 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:04:13 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:04:14 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:04:14 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:04:14 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:05:34 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:05:34 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:05:34 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44

@@ -1,0 +1,21 @@
+[11-Nov-2021 13:51:02 America/Boise] PHP Warning:  require_once(../../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/admin/index.php on line 1
+[11-Nov-2021 13:51:02 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/admin/index.php on line 1
+[12-Nov-2021 15:49:34 America/Boise] PHP Warning:  require_once(../../../config.php): failed to open stream: No such file or directory in /home2/peheabmy/resources/templates/back/delete_order.php on line 3
+[12-Nov-2021 15:49:34 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../../../config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/resources/templates/back/delete_order.php on line 3
+[12-Nov-2021 15:57:11 America/Boise] PHP Warning:  require_once(../../../resources/config.php): failed to open stream: No such file or directory in /home2/peheabmy/public_html/teslaelectronics/admin/index.php on line 1
+[12-Nov-2021 15:57:11 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../../../resources/config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/public_html/teslaelectronics/admin/index.php on line 1
+[12-Nov-2021 16:00:28 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:00:28 America/Boise] PHP Warning:  require_once(../../config.php): failed to open stream: No such file or directory in /home2/peheabmy/resources/templates/back/delete_order.php on line 3
+[12-Nov-2021 16:00:28 America/Boise] PHP Fatal error:  require_once(): Failed opening required '../../config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/peheabmy/resources/templates/back/delete_order.php on line 3
+[12-Nov-2021 16:00:29 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:00:29 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:00:29 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:00:31 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:00:31 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:00:31 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:00:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:00:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:00:32 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
+[12-Nov-2021 16:00:34 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/peheabmy/resources/config.php on line 19
+[12-Nov-2021 16:00:34 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 37
+[12-Nov-2021 16:00:34 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home2/peheabmy/resources/functions.php on line 44
